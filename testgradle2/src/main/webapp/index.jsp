@@ -5,16 +5,16 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Hello World Java EE</title>
+<title>Hello World mit Tomcat</title>
 </head>
 <body>
-    <h1>Hallo für ein Beispiel zu JSP and Servlets auf Amazon AWS !</h1>
+    <h1>Hallo im Projekt "testgradle2"</h1>
    
 <form action="HelloServlet" method="post">
     Bitte Namen eingeben : <input type="text" name="yourName" size="20">
     <input type="submit" value="Call Servlet" />
 </form>
 <br>
-<a href="/test2dyn/">Startseite</a>
+<a href="/testgradle2/">Startseite</a>
 </body>
 </html>
