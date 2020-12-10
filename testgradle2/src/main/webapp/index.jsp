@@ -8,7 +8,7 @@
 <title>Hello World mit Tomcat und Gradle</title>
 </head>
 <body>
-    <h1>Hallo im Projekt "testgradle2"</h1>
+    <h1>Hallo im Projekt "testgradle2" Build/Deploy mit Gradle</h1>
    
 <form action="HelloServlet" method="post">
     Bitte Namen eingeben : <input type="text" name="yourName" size="20">
